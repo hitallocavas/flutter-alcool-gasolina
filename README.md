@@ -1,4 +1,4 @@
-# alcool_gasolina
+# Álcool ou Gasolina?
 
 Aplicação para cálculo de álcool ou gasolina na hora de abastecer.
 
